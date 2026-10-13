@@ -16,8 +16,6 @@
   <img height="160" src="./profile-summary-card-output/transparent/3-stats.svg" />
   <img height="160" src="./profile-summary-card-output/transparent/2-most-commit-language.svg" />
 </p>
-<img src="https://streak-stats.demolab.com?user=HsinDumas&theme=transparent&hide_border=true" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HsinDumas/HsinDumas/output/github-snake-dark.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/HsinDumas/HsinDumas/output/github-snake.svg" />
