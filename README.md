@@ -10,10 +10,12 @@
 [![Skills](https://skillicons.dev/icons?i=java,spring,maven,redis,mysql,docker,git,idea)](https://skillicons.dev)
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HsinDumas&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HsinDumas&layout=compact&theme=transparent&hide_border=true" />
+  <img src="./profile-summary-card-output/transparent/0-profile-details.svg" />
 </p>
-
+<p>
+  <img height="160" src="./profile-summary-card-output/transparent/3-stats.svg" />
+  <img height="160" src="./profile-summary-card-output/transparent/2-most-commit-language.svg" />
+</p>
 <img src="https://streak-stats.demolab.com?user=HsinDumas&theme=transparent&hide_border=true" />
 
 <picture>
